@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm an engineering student at **RV College of Engineering*
 
 - 🌱 Currently learning: **Machine Learning** and **Web Development**.  
 - 🛠 Working on:  
-  - **Book recommendation SYStem** – A Book recommendation system which fullfil students reading desire.  
+  - **Book recommendation System** – A Book recommendation system which fullfil students reading desire.  
 - ✍️ Storyteller at heart: I enjoy writing short stories like *Guddada Kallaru* (Thieves of the Hill) and the adventures of *Sri Timmanna*.  
 
 ---
