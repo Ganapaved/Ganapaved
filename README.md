@@ -22,12 +22,17 @@ Welcome to my GitHub! I'm an engineering student at **RV College of Engineering*
 
 ## 📚 Recent Projects
 
-### 2️⃣ **Quantum-based Image Classification**  
+### :one: **Quantum-based Image Classification**  
 - Integrating quantum and classical approaches to revolutionize healthcare.  
 - Focus: Optimal resource allocation and scheduling.
 
-### 3️⃣ **Book Suggesting System**  
-- A system to recommend books using advanced algorithms.  
+### 2️⃣ **Book Suggesting System**  
+- A system to recommend books using advanced algorithms.
+
+### 3️⃣ **Dyslexi -AI**
+- A detection and gaming platform for Dyslexia platform.
+- Detection of Dyslexia using 9 questions and one reading pattern analyzation.
+- 3 vocubalary,memory based games.
 
 ---
 
